@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout-land/activity_main.xml" value="0.21164021164021163" />
+        <entry key="app/src/main/res/layout-large/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-sw600dp-port/layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_main_two_pane.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/activity_main_two_pane_land.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/activity_main_two_pane_port.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/fragment_1.xml" value="0.11354166666666667" />
+        <entry key="app/src/main/res/layout/fragment_dice.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/fragment_lower.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.1171875" />
+        <entry key="app/src/main/res/layout/fragment_upper.xml" value="0.1171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
